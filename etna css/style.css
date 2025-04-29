@@ -1,0 +1,327 @@
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 6306px;
+    position: relative;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 87px;
+    left: 100px;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .home {
+    position: absolute;
+    top: 120px;
+    left: 820px;
+    font-family: "Aboreto", "system-ui";
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  .desktop .parchi {
+    position: absolute;
+    top: 120px;
+    left: 930px;
+    font-family: "Aboreto", "system-ui";
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  .desktop .attivit {
+    position: absolute;
+    top: 120px;
+    left: 1060px;
+    font-family: "Aboreto", "system-ui";
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .line {
+    top: 169px;
+    position: absolute;
+    width: 1240px;
+    height: 1px;
+    left: 100px;
+    object-fit: cover;
+  }
+  
+  .desktop .img {
+    top: 1477px;
+    position: absolute;
+    width: 1240px;
+    height: 1px;
+    left: 100px;
+    object-fit: cover;
+  }
+  
+  .desktop .line-2 {
+    top: 2380px;
+    position: absolute;
+    width: 1240px;
+    height: 1px;
+    left: 100px;
+    object-fit: cover;
+  }
+  
+  .desktop .line-3 {
+    top: 3671px;
+    position: absolute;
+    width: 1240px;
+    height: 1px;
+    left: 100px;
+    object-fit: cover;
+  }
+  
+  .desktop .line-4 {
+    top: 4761px;
+    position: absolute;
+    width: 1240px;
+    height: 1px;
+    left: 100px;
+    object-fit: cover;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 1436px;
+    height: 682px;
+    top: 201px;
+    left: 2px;
+    background-image: url(./img/rectangle-40.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    top: 314px;
+    left: 103px;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 57.6px;
+    white-space: nowrap;
+  }
+  
+  .desktop .p {
+    position: absolute;
+    width: 503px;
+    top: 391px;
+    left: 98px;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 21.6px;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    width: 1018px;
+    top: 944px;
+    left: 105px;
+    font-family: "Helvetica-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    top: 1530px;
+    left: 105px;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    width: 1018px;
+    top: 1648px;
+    left: 105px;
+    font-family: "Helvetica-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .text-wrapper-6 {
+    position: absolute;
+    top: 2433px;
+    left: 100px;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-7 {
+    position: absolute;
+    width: 1018px;
+    top: 2542px;
+    left: 100px;
+    font-family: "Helvetica-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle {
+    top: 3275px;
+    left: 105px;
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+  }
+  
+  .desktop .rectangle-2 {
+    top: 3275px;
+    left: 473px;
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+  }
+  
+  .desktop .rectangle-3 {
+    top: 3275px;
+    left: 841px;
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper-8 {
+    position: absolute;
+    top: 3724px;
+    left: 100px;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-9 {
+    position: absolute;
+    width: 1021px;
+    top: 3833px;
+    left: 102px;
+    font-family: "Helvetica-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .rectangle-4 {
+    top: 4405px;
+    left: 102px;
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+  }
+  
+  .desktop .rectangle-5 {
+    top: 4405px;
+    left: 471px;
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    object-fit: cover;
+  }
+  
+  .desktop .text-wrapper-10 {
+    position: absolute;
+    top: 4814px;
+    left: 100px;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-11 {
+    position: absolute;
+    width: 1016px;
+    top: 4918px;
+    left: 105px;
+    font-family: "Helvetica-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .testo-copyright-link {
+    position: absolute;
+    width: 1033px;
+    top: 6154px;
+    left: 520px;
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 21.6px;
+  }
+  .aboreto-regular {
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
