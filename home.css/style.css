@@ -171,6 +171,13 @@
   object-fit: cover;
 }
 
+
+.desktop .rectangle-3 a{
+  width: 535px;
+  height: 400px;
+  
+}
+
 .desktop .rectangle-4 {
   width: 538px;
   height: 400px;
